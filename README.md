@@ -14,6 +14,8 @@ link tutorial: https://www.youtube.com/watch?v=4pmkQjsKJ-U&t=4s
  npm install --save express express-fileupload ejs
   
 ## Tecnologias utilizada
+-NodeJs
+-Javascript
 
 ### Back-end
 
