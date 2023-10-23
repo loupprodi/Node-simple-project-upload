@@ -12,6 +12,8 @@ link tutorial: https://www.youtube.com/watch?v=4pmkQjsKJ-U&t=4s
  npm init -y
  npm install -g nodemon  
  npm install --save express express-fileupload ejs
+##Biblioteca
+-(express-fileupload)[https://www.npmjs.com/package/express-fileupload] -paccote fileupload express
   
 ## Tecnologias utilizada
 -NodeJs
