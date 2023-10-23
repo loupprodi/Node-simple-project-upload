@@ -9,12 +9,13 @@ link tutorial: https://www.youtube.com/watch?v=4pmkQjsKJ-U&t=4s
   - [visual studio code](https://code.visualstudio.com/)
   Comandos:
 
- npm init -y
+ npm init -y  
  npm install -g nodemon  
- npm install --save express express-fileupload ejs
-##Biblioteca
--(express-fileupload)[https://www.npmjs.com/package/express-fileupload] -paccote fileupload express
-  
+ npm install --save express express-fileupload ejs  
+
+## Biblioteca  
+ -- [express-fileupload](https://www.npmjs.com/package/express-fileupload) -paccote fileupload express  
+ 
 ## Tecnologias utilizada
 -NodeJs
 -Javascript
